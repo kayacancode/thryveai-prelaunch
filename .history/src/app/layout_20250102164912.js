@@ -23,7 +23,7 @@ export const metadata = {
     title: "Thryve AI | Empowering Athletes, Influencers, and Artists",
     description: "Join the ultimate platform for athletes, influencers, and artists to connect with brands and elevate their marketing game. Sign up for early access now!",
     image: "/thryvemainlogowhite.png", // Ensure the path to the logo is correct
-    url: "https://thryveai.ai", // Replace with your live URL
+    url: "https://yourwebsite.com", // Replace with your live URL
     type: "website",
   },
   twitter: {
