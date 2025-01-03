@@ -137,7 +137,7 @@ export default function PreLaunchPage() {
           <p className="text-sm mb-4">© 2025 Thryve AI. All Rights Reserved.</p>
           <div className="flex gap-8 flex-wrap justify-center">
           <a href="mailto:whubbard@ism-mgt.com?cc=info@thryveai.ai" className="hover:text-bold transition">
-  Contact us
+  Contact
 </a>
 
             {/* <a href="/privacy-policy" className="hover:text-black transition">
