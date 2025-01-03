@@ -6,7 +6,6 @@ import React, { useState } from "react";
 import { TypeAnimation } from "react-type-animation";
 import { useForm } from "react-hook-form";
 import { Button } from "@/components/ui/button";
-import Head from "next/head";
 
 
 export default function PreLaunchPage() {
